@@ -1,4 +1,8 @@
-Jarvis – AI Voice Assistant (Python)
+# 🤖 JARVIS – AI Voice Assistant
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/github/license/TANVEER-SINGH89/JARVIS-VOICE-ASSITANT-)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/TANVEER-SINGH89/JARVIS-VOICE-ASSITANT-?style=social)](https://github.com/TANVEER-SINGH89/JARVIS-VOICE-ASSITANT-/stargazers)
 
 A production-style AI-powered voice assistant built in Python that demonstrates real-world skills in speech processing, API integration, multithreading, and system-level automation on Windows.
 
