@@ -1,6 +1,5 @@
 SpeechRecognition
 pyttsx3
 requests
-pycaw
-comtypes
-pypiwin32
+gTTS
+pytest
